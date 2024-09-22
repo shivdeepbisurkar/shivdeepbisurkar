@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivdeep Bisurkar</h1>
-<h3 align="center">Experienced Software Engineer with New Jersey Economics Development Authority(NJEDA) and Accenture.Pursuing a Master's in Computer Science at Illinois Tech, dedicated to crafting impactful solutions. Winner of E-yantra and Smart India Hackathon, skilled in agile development, passionate about meaningful projects and continuous learning. Let's connect on LinkedIn (https://www.linkedin.com/in/shivdeep-bisurkar/) to explore possibilities!</h3>
+<h3 align="center">Experienced Software Engineer with New Jersey Economics Development Authority(NJEDA) and Accenture.Pursuing a Master's in Computer Science at Illinois Tech, dedicated to crafting impactful solutions. Winner of E-yantra and Smart India Hackathon, skilled in agile development, passionate about meaningful projects and continuous learning. Let's connect on <a href="https://www.linkedin.com/in/shivdeep-bisurkar/">LinkedIn </a> to explore possibilities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivdeepbisurkar&label=Profile%20views&color=0e75b6&style=flat" alt="shivdeepbisurkar" /> </p>
 
